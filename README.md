@@ -9,12 +9,12 @@
 ### bert_mlm_demo.ipynb
 - Sample code for quick demonstration(5 miniutes)
 - Predicting words using pre-trained Japanese BERT model.
-- Refer the presentation material for the description of the demo.
+- Refer the presentation material for the description of the demo
 
 ### bert_fine_tuning_demo.ipynb
 - Sample code for quick demonstration(5 minutes)
-- Sentiment analysis using fine-tuned Japanese BERT model. 
-- Refer the presentation material for the description of the demo.
+- Sentiment analysis using fine-tuned Japanese BERT model
+- Refer the presentation material for the description of the demo
 
 ### Special Thanks
 - TOHOKU University MIKI/INUI NLP LAB. (https://www.nlp.ecei.tohoku.ac.jp/)

@@ -13,7 +13,7 @@
 
 ### bert_fine_tuning_demo.ipynb
 - Sample code for quick demonstration(5 minutes)
-- Sentiment analysis using fine-tuned Japanese BERT model
+- Sentiment analysis using fine-tunined Japanese BERT model
 - Refer the presentation material for the description of the demo
 
 ### Special Thanks

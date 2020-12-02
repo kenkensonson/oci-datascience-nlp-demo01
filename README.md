@@ -1,6 +1,13 @@
 # oci-datascience-nlp-demo01
 
-## Explanation for each notebook
+## Explanation for each file
+
+### [Code Night] Natural Language Proccessing and Machine Learning.pdf
+- Basic NLP operations
+- Workflow of ML for NLP
+- Overview of BERT model
+- Overview of BERT Fine-tuning
+
 ### nlp_basic_demo.ipynb
 - Sample code for quick demonstration(3 minites)   
 - Some basic operations for Japanese morphological analysis

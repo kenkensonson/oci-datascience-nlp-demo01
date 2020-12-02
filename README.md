@@ -20,4 +20,4 @@
 - TOHOKU University MIKI/INUI NLP LAB. (https://www.nlp.ecei.tohoku.ac.jp/)
   <br>The BERT Japanese model used in the demonstration was pre-trained by this laboratory.
 - Mr. Taishi Ikeda from Nara Institute of Science and Technology (http://www.naist.jp/)
-  <br>The library "TOIRO"(https://github.com/taishi-i/toiro) which is enabled for comparing performance between many morphological analysis libraries  and easily coding fine-tuning BERT model.
+  <br>The library "TOIRO"(https://github.com/taishi-i/toiro) which is enabled for comparing performance between many morphological analysis libraries  and easily coding fine-tuned BERT model.
